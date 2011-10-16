@@ -1,0 +1,24 @@
+The GlobaLeaks Iphone Application
+
+Features
+----------------------
+
+ * User select GlobaLeaks Site (insert url or load from http://leakdirectory.org)
+ * Submission site logos, title, description, Target Groups and submission fields are dynamically loaded
+ * User can submit (by activating the multimedia-functionality from within GlobaLeaks
+    * Photos
+    * Video
+    * Audio
+    * Files
+    * Text
+ * User is given the ability to see a progress bar of Upload (that must work in background)
+
+Future Features
+----------------------
+
+ * User can upload anonoymouly by enabling Tor
+ * Ability to tag a submission with a GPS coordinate (to show that this "fact" happened here)
+ * Client side PGP encryption of submission
+
+
+The application must be written in a way that OEM versions can be easily created by anyone who would like to publish to apple store it's own Submission application with it's own AppName and AppLogo customized.
